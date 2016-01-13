@@ -22,6 +22,6 @@
             }
         }
     ],
-    "notification_subscribers": [ ],
+    "notification_subscribers": ["fenxu@microsoft.com"],
     "branches_to_filter": ["live"]
 }
