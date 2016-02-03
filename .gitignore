@@ -3,3 +3,8 @@ xhtml/
 packages/
 obj/
 _site/
+Tools/NuGet/
+.optemp/
+
+.openpublishing.buildcore.ps1
+packages.config
