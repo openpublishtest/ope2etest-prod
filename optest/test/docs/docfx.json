@@ -19,6 +19,6 @@
       "ROBOTS": "NOINDEX, NOFOLLOW"
     },
     "template": "op.html",
-    "dest": "optest/docs"
+    "dest": "optest/test/docs"
   }
 }
