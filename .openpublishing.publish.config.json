@@ -36,6 +36,9 @@
     "master-sync-work",
     "sync-sync-work"
   ],
+  "branch_target_mapping":{
+    "live": ["Publish", "Pdf"],
+  },
   "skip_source_output_uploading": false,
   "dependent_repositories": [],
   "need_generate_pdf_url_template": false
