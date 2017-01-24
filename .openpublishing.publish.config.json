@@ -14,7 +14,8 @@
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
-      }
+      },
+      "is_dynamic_rendering": false
     },
     {
       "docset_name": "optestdocs",
@@ -25,7 +26,8 @@
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content"
-      }
+      },
+      "is_dynamic_rendering": false
     }
   ],
   "notification_subscribers": [
